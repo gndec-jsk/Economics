@@ -156,4 +156,4 @@ Example:
 | Tools       | Repo rate, CRR, SLR, OMO, qualitative controls  |
 | Policies    | Expansionary & Contractionary                   |
 | Committee   | Monetary Policy Committee (MPC)                 |
-```
+
